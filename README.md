@@ -7,7 +7,6 @@ I'm a BSc Economics graduate from the University of Nottingham, where I achieved
 - 🌱 **Learning:** Python and pandas, adding to SQL, Excel, Tableau, Power BI and Azure
 - 🎓 **At university:** I asked whether tourism affects how democratic a country is, using panel data on 113 countries and fixed-effects models in Stata
 - 🎯 **Looking for:** a graduate role working with data and figures every day, where getting the numbers right and explaining them clearly matters
-- 💬 **Ask me about:** why you should never add up BMI, why my pie chart lost out to a bar chart, or what separates a Spotify hit from the rest
 - 🏃 **Away from the screen:** half marathon training, padel, pickleball and hiking. I spent four months travelling across South America and picked up basic Spanish
 - ⚡ **Fun fact:** my cat Percy is polydactyl, so he has extra toes. He's the only outlier I'd never remove from a dataset 🐾
 
