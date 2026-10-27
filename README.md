@@ -1,27 +1,43 @@
-# 👋 Isobel Hannington
+<h1 align="center">Hi, I'm Isobel 👋</h1>
+<p align="center"><b>Economics graduate · problem-solver · West Midlands, UK</b></p>
 
-I'm an Economics graduate from the University of Nottingham, based in the West Midlands, and I'm training in data analysis.
+I studied Economics at the University of Nottingham, and the part I enjoyed most was the data. Give me a pile of figures and a question, and I'll keep going until I find the pattern, then explain it so anyone can follow.
 
-On the bootcamp I've written SQL in PostgreSQL to answer business questions on two sample databases. I've published three Tableau dashboards, and in Power BI I've cleaned and modelled sales data through Microsoft's PL-300 labs and built a three-page report. In Excel I've used pivot tables, SWITCH and lookups on sales data, and built a payroll calculation for an HR dataset. I've written small interactive programs in Python and used pandas to clean and analyse data. I've also costed a cloud BI set-up in the Azure Pricing Calculator and worked through Microsoft's DP-900 labs.
+- 🔭 **Working on:** a Level 3 Data Technician Skills Bootcamp with Leep Talent, finishing in November 2026
+- 🌱 **Learning:** Python and pandas, adding to SQL, Excel, Tableau, Power BI and Azure
+- 🎓 **At university:** I asked whether tourism affects how democratic a country is, using panel data on 113 countries and fixed-effects models in Stata
+- 🎯 **Looking for:** a graduate role working with data and figures every day, where getting the numbers right and explaining them clearly matters
+- 💬 **Ask me about:** why you should never add up BMI, why my pie chart lost out to a bar chart, or what separates a Spotify hit from the rest
+- 🏃 **Away from the screen:** half marathon training, padel, pickleball and hiking. I spent four months travelling across South America and picked up basic Spanish
+- ⚡ **Fun fact:** my cat Percy is polydactyl, so he has extra toes. He's the only outlier I'd never remove from a dataset 🐾
 
-My dissertation looked at whether tourism affects how democratic a country is, using panel data on 113 countries from 2000 to 2012. I estimated fixed-effects models in Stata, with standard errors clustered at country level.
+## 🧰 Toolkit
 
-I'm on a Level 3 Data Technician Skills Bootcamp with Leep Talent, finishing in November 2026. I'm looking for a graduate role where accurate numbers and clear explanations matter, in data analysis, audit or tax.
-
-Each project sets out what I did, what I found, and what I'd do differently.
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge" alt="pandas">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge" alt="Azure">
+  <img src="https://img.shields.io/badge/Stata-1A5F91?style=for-the-badge" alt="Stata">
+</p>
 
 ## 📂 Projects
 
 | Project | Tools | What it shows |
 |---|---|---|
-| [Tableau dashboards](https://github.com/isobel-hannington/tableau-employment-health-spotify-dashboards) | Tableau Public | Three published dashboards: jobs in 16 British cities, global health, and what makes a song popular |
-| [SQL: Northwind and World](https://github.com/isobel-hannington/sql-northwind-world-analysis) | PostgreSQL (Supabase) | 36 queries on two sample databases, from filtering to multi-table joins, plus a team database design |
-| [Excel sales analysis](https://github.com/isobel-hannington/excel-sales-data-analysis) | Excel | Pivot tables, lookups, payroll calculations and charts on sales and HR data, with research on UK data law |
+| [Tableau dashboards](https://github.com/isobel-hannington/tableau-employment-health-spotify-dashboards) | Tableau Public | Three live dashboards: jobs in 16 British cities, global health, and what makes a song popular |
+| [SQL: Northwind and World](https://github.com/isobel-hannington/sql-northwind-world-analysis) | PostgreSQL (Supabase) | 36 queries on two sample databases, from simple filters to multi-table joins, plus a team database design |
+| [Excel sales analysis](https://github.com/isobel-hannington/excel-sales-data-analysis) | Excel | Pivot tables, lookups, payroll calculations and charts on sales and HR data, plus research on UK data law |
 | [Azure fundamentals](https://github.com/isobel-hannington/azure-cloud-data-fundamentals) | Azure, Microsoft Fabric | Cloud models, a costed BI estimate, a client recommendation and Microsoft's DP-900 labs |
 | [Power BI sales report](https://github.com/isobel-hannington/power-bi-adventure-works-sales-report) | Power BI | A three-page report on sales, profit and targets, from Power Query cleaning to DAX measures |
-| [Python basics](https://github.com/isobel-hannington/python-basics) | Python, Google Colab | Interactive programs built with variables, input, type casting, conditions and loops |
+| [Python basics](https://github.com/isobel-hannington/python-basics) | Python, Google Colab | Small interactive programs built with variables, input, type casting, conditions and loops |
 | [Python pandas](https://github.com/isobel-hannington/python-pandas-exercises) | pandas, Matplotlib, seaborn | Filtering, cleaning and summarising four datasets, with charts |
 
-## 📫 Contact
+Each project sets out what I did, what I found, and what I'd do differently.
 
-LinkedIn: [linkedin.com/in/Isobel-hannington-b0543a386](https://www.linkedin.com/in/Isobel-hannington-b0543a386) · Email: [ihannington1@outlook.com](mailto:ihannington1@outlook.com)
+## 📫 Let's talk
+
+LinkedIn: [linkedin.com/in/Isobel-hannington-b0543a386](https://www.linkedin.com/in/Isobel-hannington-b0543a386) · Email: [ihannington1@outlook.com](mailto:ihannington1@outlook.com) · Tableau Public: [isobel.hannington](https://public.tableau.com/app/profile/isobel.hannington)
