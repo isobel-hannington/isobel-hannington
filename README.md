@@ -7,6 +7,7 @@ I'm a BSc Economics graduate from the University of Nottingham, where I achieved
 - 🌱 **Learning:** Python and pandas, adding to SQL, Excel, Tableau, Power BI and Azure
 - 🎓 **At university:** I asked whether tourism affects how democratic a country is, using panel data on 113 countries and fixed-effects models in Stata
 - 🎯 **Looking for:** a graduate role working with data and figures every day, where getting the numbers right and explaining them clearly matters
+- 💬 **Ask me about:** why you should never add up BMI, why my pie chart lost out to a bar chart, or what separates a Spotify hit from the rest
 - 🏃 **Away from the screen:** half marathon training, padel, pickleball and hiking. I spent four months travelling across South America and picked up basic Spanish
 - ⚡ **Fun fact:** my cat Percy is polydactyl, so he has extra toes. He's the only outlier I'd never remove from a dataset 🐾
 
@@ -36,6 +37,59 @@ I'm a BSc Economics graduate from the University of Nottingham, where I achieved
 | [Python pandas](https://github.com/isobel-hannington/python-pandas-exercises) | pandas, Matplotlib, seaborn | Filtering, cleaning and summarising four datasets, with charts |
 
 Each project sets out what I did, what I found, and what I'd do differently.
+
+## 🧹 Clean my data: a quick game
+
+<details>
+<summary><b>Four questions, one minute. Click to play</b></summary>
+
+**Round 1: two of these are true. Which one is bad data?**
+
+1. 🎬 I've done background work on film and TV productions
+2. 🥧 I once ran a half marathon dressed as a pie chart
+3. 🎹 I've got Grade 5 piano
+
+<details>
+<summary>Reveal</summary>
+
+Number 2. I'm training for the London Landmarks Half Marathon, and I won't be running it as a pie chart. [My Excel project](https://github.com/isobel-hannington/excel-sales-data-analysis) explains why.
+
+</details>
+
+**Round 2: what went wrong in my data?**
+
+🏙️ Glasgow lost jobs from 2011 to 2014, but an early version of my dashboard showed it growing. Why?
+
+<details>
+<summary>Reveal</summary>
+
+I'd averaged its sub-industries' growth rates, so tiny ones counted as much as big ones. Total change over total 2011 jobs gives the true rate. [See the fix](https://github.com/isobel-hannington/tableau-employment-health-spotify-dashboards).
+
+</details>
+
+🎵 My Spotify data listed "Children's Music" as two different genres. How?
+
+<details>
+<summary>Reveal</summary>
+
+One used a straight apostrophe and the other a curly one, so I merged them before building any charts.
+
+</details>
+
+**Round 3: filter my travels to South America**
+
+🌎 I've been to the United States, Mexico, Colombia, Peru, Chile, Bolivia, Argentina and Brazil. Which two don't pass the filter?
+
+<details>
+<summary>Reveal</summary>
+
+The United States and Mexico are in North America, so they'd be filtered out. If you got both, ¡muy bien!
+
+</details>
+
+Got all four? Come and tell me on LinkedIn 👋
+
+</details>
 
 ## 📫 Let's talk
 
