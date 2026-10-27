@@ -44,7 +44,7 @@ Each project sets out what I did, what I found, and what I'd do differently.
 
 **Round 1: two of these are true. Which one is bad data?**
 
-1. 🎬 I've been part of the filming process on film and TV sets
+1. 🎬 I've been part of the process for extra work on Film and TV sets
 2. 🥧 I once ran a half marathon dressed as a pie chart
 3. 🎹 I've got Grade 5 piano
 
