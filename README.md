@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Isobel 👋</h1>
 <p align="center"><b>Economics graduate · problem-solver · West Midlands, UK</b></p>
 
-I studied Economics at the University of Nottingham, and the part I enjoyed most was the data. Give me a pile of figures and a question, and I'll keep going until I find the pattern, then explain it so anyone can follow.
+I'm a BSc Economics graduate from the University of Nottingham, where I achieved a 2:1. The part I enjoyed most was the data. Give me a pile of figures and a question, and I'll keep going until I find the pattern, then explain it so anyone can follow.
 
 - 🔭 **Working on:** a Level 3 Data Technician Skills Bootcamp with Leep Talent, finishing in November 2026
 - 🌱 **Learning:** Python and pandas, adding to SQL, Excel, Tableau, Power BI and Azure
